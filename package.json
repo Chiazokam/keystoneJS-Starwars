@@ -5,8 +5,8 @@
   "dependencies": {
     "async": "2.1.4",
     "dotenv": "^4.0.0",
-    "express-jwt": "^5.3.1",
-    "jwks-rsa": "^1.5.1",
+    "express-jwt": "^8.3.0",
+    "jwks-rsa": "^3.0.0",
     "keystone": "4.0.0-beta.5",
     "keystone-email": "1.0.5",
     "lodash": "^4.13.1",
